@@ -1,4 +1,4 @@
-streamlit==0.70.0
+streamlit>=1.8.1
 pandas==1.0.5
 annoy==1.17.0
 scrapy==2.4.0
